@@ -11,9 +11,9 @@ This space works as my technical laboratory — where I design, test, and refine
 
 ---
 
-![Cecelabs GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
-![Cecelabs Activity Graph](https://activity-graph.herokuapp.com/graph?username=TU_USUARIO&theme=github)
+![Cecelabs GitHub Stats](https://github-readme-stats.vercel.app/api?username=cecelabs&show_icons=true&count_private=true&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecelabs&layout=compact)
+![Cecelabs Activity Graph](https://activity-graph.herokuapp.com/graph?username=cecelabs&theme=github)
 ---
 
 ##  Professional Focus
