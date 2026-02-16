@@ -13,8 +13,8 @@ This space works as my technical laboratory — where I design, test, and refine
 
 ## 📊 GitHub Stats
 
-![Cecelabs GitHub Stats](https://github-readme-stats.vercel.app/api?username=cec elabs&show_icons=true&count_private=true&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cec elabs&layout=compact)
+![Cecelabs GitHub Stats](https://github-readme-stats.vercel.app/api?username=cecelabs&show_icons=true&count_private=true&hide=stars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cecelabs&layout=compact)
 
 > These graphs reflect my activity and the main technologies I've been using recently.
 
