@@ -1,4 +1,4 @@
-# Cecelabs 🔬
+# Cecelabs ⚙️
 
 Hi, I'm Cecilia "Cece".
 
@@ -11,7 +11,7 @@ This space works as my technical laboratory — where I design, test, and refine
 
 ---
 
-## 🔎 Professional Focus
+##  Professional Focus
 
 - Backend development fundamentals  
 - Quality assurance (manual testing & automation foundations)  
@@ -34,7 +34,7 @@ I approach software as a system:
 
 ## 💻 Technical Laboratory Projects
 
-### 🔹 Backend Systems
+###  Backend Systems
 - **django-inventory-system**  
   Backend inventory system focused on structure, clarity, and reliability.
 
@@ -43,7 +43,7 @@ I approach software as a system:
 
 ---
 
-### 🔹 Quality & Intelligent Systems
+###  Quality & Intelligent Systems
 - **qa-manual-portfolio**  
   Manual QA documentation and structured testing practices.
 
@@ -52,7 +52,7 @@ I approach software as a system:
 
 ---
 
-### 🔹 Interactive Systems
+###  Interactive Systems
 - **react-typescript-playground**  
   React + TypeScript experimentation focused on clean component structure.
 
@@ -72,7 +72,7 @@ I am currently strengthening my skills in backend architecture, QA practices, an
 
 ---
 
-## 📍 Currently Developing
+## 🏗️ Currently Developing
 
 - Backend architecture understanding  
 - Test automation foundations  
