@@ -10,13 +10,12 @@ I’m at the beginning of my professional journey in tech, building a strong fou
 This space works as my technical laboratory — where I design, test, and refine systems with intention.
 
 ---
+## ⚙️ Tech Stack
 
-## 📊 GitHub Graphs
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cecelabs&theme=gruvbox)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cecelabs&layout=compact)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ---
 
 ##  Professional Focus
