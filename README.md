@@ -11,12 +11,11 @@ This space works as my technical laboratory — where I design, test, and refine
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Graphs
 
-![Cecelabs GitHub Stats](https://github-readme-stats.vercel.app/api?username=cecelabs&show_icons=true&count_private=true&hide=stars)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cecelabs&theme=gruvbox)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cecelabs&layout=compact)
-
-> These graphs reflect my activity and the main technologies I've been using recently.
 
 ---
 
