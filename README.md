@@ -17,7 +17,7 @@ This space works as my technical laboratory — where I design, test, and refine
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ---
-
+<!--
 ##  Professional Focus
 
 - Backend development fundamentals  
@@ -76,9 +76,13 @@ I approach software as a system:
 I have participated in a small-scale data project, applying analytical techniques to extract insights and support decision-making.
 
 I am currently strengthening my skills in backend architecture, QA practices, and data analysis.
+---
+
+_"Reliable systems are built with intention."_
 
 ---
 
+-->
 ## 🏗️ Currently Developing
 
 - Backend architecture understanding  
@@ -86,6 +90,3 @@ I am currently strengthening my skills in backend architecture, QA practices, an
 - System design thinking  
 - Data analysis techniques  
 
----
-
-_"Reliable systems are built with intention."_
