@@ -1,92 +1,64 @@
 # Cecelabs ⚙️
 
-Hi, I'm Cecilia "Cece".
+# ☁️ Cecilia
 
-Industrial IT Technician  
-Junior Developer focused on Backend Systems & Quality Engineering  
-
-I’m at the beginning of my professional journey in tech, building a strong foundation in backend development, software quality, and data systems.
-
-This space works as my technical laboratory — where I design, test, and refine systems with intention.
-
----
-## ⚙️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
----
-<!--
-##  Professional Focus
-
-- Backend development fundamentals  
-- Quality assurance (manual testing & automation foundations)  
-- Clean architecture & structured system design  
-- Data analysis and data-driven thinking  
+<p align="left">
+Cloud Enthusiast building elegant, real-world systems on Microsoft Azure
+</p>
 
 ---
 
-## 🛠 Engineering Mindset
+## ✧ About Me
 
-I approach software as a system:
+I focus on creating **clean, practical cloud solutions** using Azure.  
+My work centres around **serverless architecture, storage systems and event-driven design**.
 
-- I prioritize clarity over complexity  
-- I design before implementing  
-- I value maintainability and structure  
-- I document decisions and iterate thoughtfully  
-- I treat quality as part of the design process  
+I’m currently building hands-on projects that reflect how cloud systems operate in real environments.
 
 ---
 
-## 💻 Technical Laboratory Projects
+## ☁️ Current Focus
 
-###  Backend Systems
-- **django-inventory-system**  
-  Backend inventory system focused on structure, clarity, and reliability.
-
-- **spacetraders-cli**  
-  Command-line client for the SpaceTraders API, structured using Domain-Driven Design principles.
+✦ Azure Functions (serverless computing)  
+✦ Blob Storage integrations  
+✦ Event-driven architecture  
+✦ Cloud-based automation  
 
 ---
 
-###  Quality & Intelligent Systems
-- **qa-manual-portfolio**  
-  Manual QA documentation and structured testing practices.
+## ✧ Tech Stack
 
-- **content-review-langchain**  
-  Experimental content review workflows using AI-assisted tools.
-
----
-
-###  Interactive Systems
-- **react-typescript-playground**  
-  React + TypeScript experimentation focused on clean component structure.
-
-- **game-minigame-DDD**  
-  Interactive system applying Domain-Driven Design to game mechanics.
-
-- **game-pygame-demo**  
-  Game prototype exploring logic, interaction, and system organization.
+<p>
+Azure · Python · JavaScript · SQL · MongoDB · 
+Azure Functions · Blob Storage · Git · GitHub
+</p>
 
 ---
 
-## 📊 Growing in Data
+## ☁️ Featured Project
 
-I have participated in a small-scale data project, applying analytical techniques to extract insights and support decision-making.
+### Azure Blob Function Project
 
-I am currently strengthening my skills in backend architecture, QA practices, and data analysis.
+A serverless Azure Function that triggers on file upload to Blob Storage and processes files automatically.
+
+✦ Demonstrates event-driven architecture  
+✦ Showcases cloud automation workflows  
+
 ---
 
-_"Reliable systems are built with intention."_
+## ✧ Growth
+
+Building consistency with Azure projects while deepening my understanding of scalable cloud architecture.
 
 ---
 
--->
-## 🏗️ Currently Developing
+## ☁️ Connect
 
-- Backend architecture understanding  
-- Test automation foundations  
-- System design thinking  
-- Data analysis techniques  
+LinkedIn: linkedin.com/in/cecilia-marfo-03b801234/?skipRedirect=true
+
+---
+
+<p align="center">
+✧ building in the cloud, intentionally ✧
+</p>
 
